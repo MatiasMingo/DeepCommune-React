@@ -1,15 +1,10 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "We think that the biggest problem humans face today is going through life and participating in a society practicaly on their own.",
+  "text": "We think that the next generation of government is going to be powered by a continuously optimized network of fully coordinated people.",
   "section": [
     {
-      "title": "Why Antd?",
+      "title": "Why DeepCommune?",
       "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
       "icon": "notes.svg"
     }
   ]
